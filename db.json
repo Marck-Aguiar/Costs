@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "id": "2fbe",
+      "name": "Teste API",
+      "budget": "10",
+      "category": {
+        "id": "4",
+        "name": "QA"
+      },
+      "cost": 5,
+      "services": [
+        {
+          "name": "Serviço API",
+          "cost": "10",
+          "description": "A",
+          "id": "315a253e-0ab4-4804-9961-37b8c2627a91"
+        },
+        {
+          "name": "- Serviço",
+          "cost": "-5",
+          "description": "API -",
+          "id": "7533a113-f579-467e-a8b6-2e77c7bdbb0f"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "QA"
+    },
+    {
+      "id": "5",
+      "name": "Planejamento"
+    }
+  ]
+}

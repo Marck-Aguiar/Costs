@@ -1,0 +1,19 @@
+.form{
+    width: 100%;
+    margin: 2em 0;
+
+}
+
+.form select{
+    background-color: #7c7c7c;
+    color: #fff;
+}
+
+.error {
+    padding: 15px;
+    background-color: #f44336;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
